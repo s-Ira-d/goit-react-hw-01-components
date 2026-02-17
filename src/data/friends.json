@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Mango",
+    "avatar": "https://i.pravatar.cc/48?img=1",
+    "isOnline": true
+  },
+  {
+    "id": 2,
+    "name": "Kiwi",
+    "avatar": "https://i.pravatar.cc/48?img=2",
+    "isOnline": false
+  },
+  {
+    "id": 3,
+    "name": "Ajax",
+    "avatar": "https://i.pravatar.cc/48?img=3",
+    "isOnline": true
+  }
+]
